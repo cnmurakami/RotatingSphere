@@ -8,6 +8,10 @@
 
 <p>Utilize as moedas ganhas para comprar outras esferas.</p>
 
+## Como jogar
+
+Baixe ou clone o repositório e execute o arquivo ObserveTheOrb.exe
+
 ## Controles
 ```
 Mouse: Rotaciona a esfera
