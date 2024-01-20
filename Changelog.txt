@@ -1,0 +1,56 @@
+Changelog
+
+v0.9.9a:
+Reworked buttons: now works properly with key navigation;
+Added proper pause screen;
+
+v0.9.9:
+Added Coin system (not currently being stored yet);
+Added Focus Orb system to get additional coins;
+A certain amount of coins is also obtained from total Score after every game;
+Changed Power timer sliders from vertical to radial;
+Fixed a orb light not properly being disabled when behind the globe;
+Tweaked stars
+
+v0.9.0:
+Added stars at night;
+Fixed an issue causing the cursor to be locked at Game Over screen;
+Tweaked Lighting;
+Tweaked Orb appearence;
+
+v0.8.9:
+Cursor locked and hidden while playing and not paused;
+Unused scripts discarded;
+
+v0.8.7:
+Added Fast: adds speed to Orb;
+Added Slow: subtracts speed from Orb;
+Added Double Score: doubles the amount of score received while active;
+Added Blur: blurs the camera while active;
+
+v0.8.4:
+Powers becomes invisble when behind the Globe, as well their light;
+Powers auto desctruction no longer works while paused;
+Added Heal Power Up;
+Added Damage Power Down;
+Minor Powers UI tweak;
+Changed Shift to Reverse;
+Changed how Reverse script works: now other scripts are not affected;
+Changed Shield: Health no longer is maxed, Shield only protect against additional damage while active;
+Separated Health management script from Health display;
+Folders structure properly organized;
+All currently used codes properly commented;
+
+as of 0.8.0:
+Globe selection working (no preview);
+Health working with UI;
+Score working with UI;
+Focus working with UI;
+Game Over screen with score display (only last score);
+Orb speed working with UI;
+Power ups and downs working with full UI;
+Orb moves randomly;
+Powers appears randomly;
+Powers disappears after a certain amount of time;
+Collected power has slider showing timer;
+Current powers: shield and shift;

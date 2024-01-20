@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: a7f6691a311149d48815395906402994
+timeCreated: 1463621784
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: screenBorders_0
+    21300002: screenBorders_1
+    21300004: screenBorders_2
+    21300006: screenBorders_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 170, y: 170, z: 170, w: 170}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: screenBorders_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341.3333
+        width: 170.66667
+        height: 170.66669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 73.83331}
+        - {x: -73.5, y: -78.16669}
+        - {x: -69.5, y: -79.16669}
+        - {x: -52.5, y: -79.16669}
+        - {x: 78.5, y: 48.833313}
+        - {x: 79.5, y: 52.833313}
+        - {x: 79.5, y: 73.83331}
+    - name: screenBorders_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 341.3333
+        width: 170.66667
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 42.833313}
+        - {x: 46.5, y: -79.16669}
+        - {x: 75.5, y: -79.16669}
+        - {x: 75.5, y: 73.83331}
+        - {x: -77.5, y: 73.83331}
+    - name: screenBorders_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 170.66667
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 73.83333}
+        - {x: -73.5, y: -70.16667}
+        - {x: -72.5, y: -74.16667}
+        - {x: 79.5, y: -74.16667}
+        - {x: 79.5, y: -51.16667}
+        - {x: 78.5, y: -49.16667}
+        - {x: -49.5, y: 77.83333}
+        - {x: -69.5, y: 77.83333}
+    - name: screenBorders_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1.3333282
+        width: 170.66667
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 77.83333}
+        - {x: -77.5, y: -56.16667}
+        - {x: -77.5, y: -74.16667}
+        - {x: 71.5, y: -74.16667}
+        - {x: 75.5, y: -73.16667}
+        - {x: 75.5, y: 77.83333}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

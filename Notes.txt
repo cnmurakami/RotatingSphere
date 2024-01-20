@@ -1,0 +1,18 @@
+Note for adding Spheres:
+
+Just drop the prefab at Resources\Prefabs\Globes and it will be added automatically;
+The prefab must have RotateSphere2.cs script attached to it with proper speed;
+Names shall be give in the format aa-Name, whereas aa stands for classification
+Any character after 'aa-' will be shown at Globe Selection screen (case sensitive)
+
+===========================================
+
+Current classification table (WIP):
+00-Geometry Forms;
+01-Planets and Stars;
+02-Human works;
+
+===========================================
+
+Note for adding Power Ups and Downs:
+(WIP)
